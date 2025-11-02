@@ -1,2 +1,1 @@
-# Case_study-1
-Bright_Coffee_Shop
+This project examines a coffee shop's sales performance to identify important revenue-generating factors, consumer buying trends, and time-based sales patterns. Providing data-driven insights to help the CEO's decision-making is the aim.
